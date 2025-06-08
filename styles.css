@@ -368,3 +368,7 @@ body {
         padding: 6px;
     }
 }
+
+.footer a {
+    color: white;
+}
